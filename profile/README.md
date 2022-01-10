@@ -1,6 +1,6 @@
 ## WELCOME TO THE RODRIGUEZ FLOW RESEARCH ORGANIZATION!
 
-* We are the Rodriguez Flow Research group @ Brown University
+* We are the [Rodriguez Flow Research](https://sites.brown.edu/rodriguez/) group @ Brown University
 * [Mauro Rodriguez Jr.](https://vivo.brown.edu/display/mrodri97) is the PI of the group
 * We solve flow problems involving gases, liquids, and solids using physics, numerical methods, and computers
 * Public repositories contain open-source (e.g., MFC) and education (e.g., exact Riemann solver) softwares
