@@ -6,4 +6,4 @@
 * Public repositories contain open-source (e.g., MFC) and education (e.g., exact Riemann solver) softwares
 * Users of the public repositories should carefully read the softwares' capabilities and limitations prior to use
 * Education software should be for one's own education and not for class work
-* We are interested in collaborations! Feel free to reach out to the [PI] @ mauro_rodriguez@brown.edu
+* We are interested in collaborations! Feel free to reach out to the PI @ mauro_rodriguez@brown.edu
