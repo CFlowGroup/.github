@@ -1,4 +1,4 @@
-## Welcome to the Rodriguez Flow Research Github Organization!
+## Welcome to the Computational Flow Group @ Brown University Github Organization!
 
 * We are the [Rodriguez Flow Research group](https://sites.brown.edu/rodriguez/) @ [Brown University](https://www.brown.edu/)
 * PI: [Mauro Rodriguez Jr.](https://vivo.brown.edu/display/mrodri97) 
