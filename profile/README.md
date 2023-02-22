@@ -1,7 +1,7 @@
 ## Welcome to the Computational Flow Group @ Brown University Github Organization!
 
-* We are the [Rodriguez Flow Research group](https://sites.brown.edu/rodriguez/) @ [Brown University](https://www.brown.edu/)
-* PI: [Mauro Rodriguez Jr.](https://vivo.brown.edu/display/mrodri97) 
+* We are the [Computational Flow group](https://sites.brown.edu/rodriguez/) @ [Brown University](https://www.brown.edu/)
+* The PI of the group is [Mauro Rodriguez Jr.](https://vivo.brown.edu/display/mrodri97) 
 * We are members of the [Fluid and Thermal Science Group](https://fluids.brown.edu/)
 * We solve flow problems involving gases, liquids, and solids using physics, numerical methods, and computers
 * Public repositories contain open-source (e.g., MFC) and education (e.g., exact Riemann solver) softwares
